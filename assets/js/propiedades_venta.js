@@ -67,8 +67,8 @@ const propiedadesVenta = [
             <i class="fas fa-map-marker-alt"></i> ${sale.ubicacion}
           </p>
           <p>
-            bathroom: 1,<i class="fas fa-bed"></i> ${sale.habitaciones} |
-            <i class="fas fa-bath"></i> ${sale.bathroom}
+            habitaciones : <i class="fas fa-bed"></i> ${sale.bathroom} |
+            bathroom: <i class="fas fa-bath"></i> ${sale.habitaciones}
           </p>
           <p>
             <i class="fas fa-dollar-sign"></i>${sale.costo}
